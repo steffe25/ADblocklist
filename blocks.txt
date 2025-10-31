@@ -1,4 +1,3 @@
-
-
-
+mtv.a2d.tv
 nordic-reno.mtv.a2d.tv
+service-messages-api.mtv.a2d.tv
